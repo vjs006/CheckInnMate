@@ -1,5 +1,5 @@
 # CHECKINN MATE
-Note: For detailed project info, refer to the PDF Attached
+Note: For detailed project info (Design and Final Product Demo), refer to the PDF Attached
 
 ## PROBLEM STATEMENT
 The Hotel Management System is a comprehensive software solution designed to
